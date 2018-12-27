@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Si Wu (Floris)
 
-You can use the [editor on GitHub](https://github.com/FlorisWu/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Code and Design
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Writing
 
-### Markdown
+WGBH
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Renewable Energy Is The Future. So Why Are We Still Stuck In The Past?](https://www.wgbh.org/news/commentary/2018/05/10/renewable-energy-is-the-future-so-why-are-we-still-stuck-in-the-past)
 
-```markdown
-Syntax highlighted code block
+Storybench
 
-# Header 1
-## Header 2
-### Header 3
+[Carlos Scheidegger on why data science needs to be done humanely](http://www.storybench.org/carlos-scheidegger-data-science-needs-done-humanely/)
 
-- Bulleted
-- List
+[Takeaways on being a watchdog reporter from the 2018 Boston Watchdog Workshop](http://www.storybench.org/takeaways-watchdog-reporter-2018-boston-watchdog-workshop/)
 
-1. Numbered
-2. List
+[How Florida Today created an augmented reality rocket launch app](http://www.storybench.org/florida-today-created-augmented-reality-rocket-launch-app/)
 
-**Bold** and _Italic_ and `Code` text
+NU Sci
 
-[Link](url) and ![Image](src)
-```
+[How the conflict between science journalism and industry could be exacerbated in today's media space](https://nuscimag.com/how-the-conflict-between-science-journalism-and-industry-could-be-exacerbated-in-todays-80fdb8eb4da4)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Commentary: How the use of drones can help us study atmospheric chemicals](https://nuscimag.com/commentary-how-the-use-of-drones-can-help-us-study-atmospheric-chemicals-6c3975c5dc74)
 
-### Jekyll Themes
+[Does Climate Change Really Trigger Earthquakes?](https://nuscimag.com/does-climate-change-really-trigger-earthquakes-41a91477e7fc)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FlorisWu/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Scope
 
-### Support or Contact
+[Innovative Solutions to Curb the Gun Violence Epidemic](http://thescopeboston.org/innovative-solutions-to-curb-the-gun-violence-epidemic)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I, Science
+
+[New research links diet drinks to weight gain](http://isciencemag.co.uk/news/new-research-links-diet-drinks-to-weight-gain/)
+
+[The Milky Way could contain at least 100 billion brown dwarfs](http://isciencemag.co.uk/features/the-milky-way-could-contain-at-least-100-billion-brown-dwarfs/)
