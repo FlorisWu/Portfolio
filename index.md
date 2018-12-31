@@ -16,6 +16,8 @@ Storybench
 
 [How Florida Today created an augmented reality rocket launch app](http://www.storybench.org/florida-today-created-augmented-reality-rocket-launch-app/)
 
+[Ears to the pavement: What Bostonians are saying about the 2018 midterm elections](http://www.storybench.org/ears-pavement-bostonians-saying-2018-midterm-elections/)
+
 NU Sci
 
 [How the conflict between science journalism and industry could be exacerbated in today's media space](https://nuscimag.com/how-the-conflict-between-science-journalism-and-industry-could-be-exacerbated-in-todays-80fdb8eb4da4)
@@ -55,3 +57,11 @@ WordPress
 [Who's in charge of your life – you or your phone? It's up to you to decide.](https://florissiwu.wordpress.com/2018/01/21/whos-in-charge-of-your-life-you-or-your-phone-its-up-to-you-to-decide/)
 
 [Teaching: finding moments of happiness in an otherwise grueling experience](https://florissiwu.wordpress.com/2018/01/15/teaching-finding-moments-of-happiness-in-an-otherwise-grueling-experience/)
+
+## Video
+
+[An employee of Clover Food Lab talks about its mission, service and recipes](https://florissiwu.wordpress.com/2018/10/23/an-employee-of-clover-food-lab-talks-about-its-mission-service-and-recipes/)
+
+## Audio
+
+[Ears to the pavement: What Bostonians are saying about the 2018 midterm elections](http://www.storybench.org/ears-pavement-bostonians-saying-2018-midterm-elections/)
