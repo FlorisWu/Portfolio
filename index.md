@@ -2,6 +2,34 @@
 
 ## Code and Design
 
+### Sentiment analysis
+
+During the fall of 2018, as part of my data journalism research for [Storybench](http://www.storybench.org), a "cookbook for digital storytelling" by Northeastern University's School of Journalism, I collected twitter data from 2018 midterm election candidates (with R) to see how it might have affected the results of the election. To better understand the impact of these words, a machine learning model was used to predict tweet sentiment, and results are visualized (with Python). [Code here](https://floriswu.github.io/twitter-sentiment-analysis/).
+
+An analysis of 70,000 tweets from more than 60 candidates running for the Senate in 2018 shows Democrats who employed more negative tweets fared better.
+
+<img src="https://github.com/FlorisWu/twitter-sentiment-analysis/blob/master/positives__and_votes.jpg?raw=true" width="900"/>
+
+
+### Heatmaps
+
+In the summer of 2018, as part of [#ARforChange](http://www.storybench.org/arforchange-project-using-immersive-technologies-data-social-change/), a project exploring new platforms for civic engagement and social change using immersive media at Northeastern University's School of Journalism, I collected flight data and presented them through heatmaps to visualize the unfair burden of aircraft noise over West Boston with Python. [Code here](https://floriswu.github.io/flight-tracks-Logan-airport/).
+
+<img src="https://github.com/FlorisWu/flight-tracks-logan-airport/blob/master/Counts.png?raw=true" width="900"/>
+
+### Satellite trajectory
+
+During my freshman year studying physics at Imperial College London, I did a Python project plotting the motion, angular deviation and energies of a satellite travelling around Mars. [Code here](https://floriswu.github.io/satellite-around-Mars/).
+
+<img src="https://github.com/FlorisWu/satellite-around-Mars/blob/master/trajectory_2000.jpg?raw=true" width="900"/>
+<img src="https://github.com/FlorisWu/satellite-around-Mars/blob/master/energy_2000.jpg?raw=true" width="900"/>
+
+### Optical ray tracer
+
+During my sophomore year studying physics at Imperial College London, I did a Python project tracing a single and a bundle of rays propagating through different medium (refraction). [Code here](https://floriswu.github.io/optical-ray-tracer/).
+
+<img src="https://github.com/FlorisWu/optical-ray-tracer/blob/master/bundle_of_rays.png?raw=true" width="900"/>
+
 ## Writing
 
 WGBH
