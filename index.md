@@ -36,7 +36,15 @@ I, Science
 
 WordPress
 
+[The use of machine learning in journalism, and its ethics and future](https://florissiwu.wordpress.com/2018/12/28/the-use-of-machine-learning-in-journalism-and-its-ethics-challenges-and-future/)
+
+[Boston's sea levels will probably rise by 9 inches as soon as 2030, and here's what residents and experts say](https://florissiwu.wordpress.com/2018/12/28/bostons-sea-levels-will-probably-rise-by-9-inches-as-soon-as-2030-and-heres-what-residents-and-experts-say/)
+
 ['They said I should go home.' A Chinese student's daunting school experience and what we can do about it](https://florissiwu.wordpress.com/2018/04/23/they-said-that-i-should-go-home-a-chinese-students-daunting-educational-experience-and-what-we-can-do-about-it/)
+
+[Q&A: Suzanne Matson on "Ultraviolet," American womanhood and her family history](https://florissiwu.wordpress.com/2018/12/28/qa-suzanne-matson-on-ultraviolet-american-womanhood-and-her-family-history/)
+
+[A European perspective: Oxford professor Gideon Henderson on ways to mitigate climate change](https://florissiwu.wordpress.com/2018/12/28/a-european-perspective-oxford-professor-gideon-henderson-on-ways-to-mitigate-climate-change/)
 
 [It's time to hold the United States accountable for the global pollution problem](https://florissiwu.wordpress.com/2018/03/11/its-time-to-hold-the-united-states-accountable-for-the-global-pollution-problem/)
 
