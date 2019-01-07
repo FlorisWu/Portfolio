@@ -38,6 +38,8 @@ WGBH
 
 Storybench
 
+[The future of machine learning in journalism](http://www.storybench.org/the-future-of-machine-learning-in-journalism/)
+
 [Carlos Scheidegger on why data science needs to be done humanely](http://www.storybench.org/carlos-scheidegger-data-science-needs-done-humanely/)
 
 [Takeaways on being a watchdog reporter from the 2018 Boston Watchdog Workshop](http://www.storybench.org/takeaways-watchdog-reporter-2018-boston-watchdog-workshop/)
@@ -66,7 +68,6 @@ I, Science
 
 WordPress
 
-[The use of machine learning in journalism, and its ethics and future](https://florissiwu.wordpress.com/2018/12/28/the-use-of-machine-learning-in-journalism-and-its-ethics-challenges-and-future/)
 
 [Boston's sea levels will probably rise by 9 inches as soon as 2030, and here's what residents and experts say](https://florissiwu.wordpress.com/2018/12/28/bostons-sea-levels-will-probably-rise-by-9-inches-as-soon-as-2030-and-heres-what-residents-and-experts-say/)
 
