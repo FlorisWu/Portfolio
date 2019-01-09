@@ -4,7 +4,7 @@
 
 ### Sentiment analysis
 
-During the fall of 2018, as part of my data journalism research for [Storybench](http://www.storybench.org), a "cookbook for digital storytelling" by Northeastern University's School of Journalism, I collected twitter data from 2018 midterm election candidates (with R) to see how it might have affected the results of the election. To better understand the impact of these words, a machine learning model was used to predict tweet sentiment, and results are visualized (with Python). [Code here](https://floriswu.github.io/twitter-sentiment-analysis/).
+During the fall of 2018, as part of my data journalism research for [Storybench](http://www.storybench.org), a "cookbook for digital storytelling" by Northeastern University's School of Journalism, I collected Twitter data from 2018 midterm election candidates (with R) to see how it might have affected the results of the election. To better understand the impact of these words, a machine learning model was used to predict tweet sentiment, and results are visualized (with Python). [Code here](https://floriswu.github.io/twitter-sentiment-analysis/).
 
 An analysis of 70,000 tweets from more than 60 candidates running for the Senate in 2018 shows Democrats who employed more negative tweets fared better.
 
