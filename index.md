@@ -19,7 +19,7 @@ In the summer of 2018, as part of [#ARforChange](http://www.storybench.org/arfor
 
 ### Satellite trajectory
 
-During my freshman year studying physics at Imperial College London, I did a Python project plotting the motion, angular deviation and energies of a satellite travelling around Mars. [Code here](https://floriswu.github.io/satellite-around-Mars/).
+During my freshman year studying physics at Imperial College London, I did a Python project plotting the motion and energies of a satellite travelling around Mars. [Code here](https://floriswu.github.io/satellite-around-Mars/).
 
 <img src="https://github.com/FlorisWu/satellite-around-Mars/blob/master/trajectory_2000.jpg?raw=true" width="900"/>
 <img src="https://github.com/FlorisWu/satellite-around-Mars/blob/master/energy_2000.jpg?raw=true" width="900"/>
