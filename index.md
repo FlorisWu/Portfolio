@@ -94,3 +94,7 @@ WordPress
 ## Audio
 
 [Ears to the pavement: What Bostonians are saying about the 2018 midterm elections](http://www.storybench.org/ears-pavement-bostonians-saying-2018-midterm-elections/)
+
+## Photo
+
+[Mission Hill 100 Instagram Essay](https://www.instagram.com/p/BpU3N1XguIU/?utm_source=ig_share_sheet&igshid=6p98v3bd8hst)
