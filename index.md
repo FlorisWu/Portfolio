@@ -40,6 +40,10 @@ WGBH
 
 [Renewable Energy Is The Future. So Why Are We Still Stuck In The Past?](https://www.wgbh.org/news/commentary/2018/05/10/renewable-energy-is-the-future-so-why-are-we-still-stuck-in-the-past)
 
+Global Investigative Journalism Network
+
+[How Machine Learning Can (And Can't) Help Journalists](https://gijn.org/2019/03/19/how-machine-learning-can-and-cant-help-journalists/)
+
 Storybench
 
 [The future of machine learning in journalism](http://www.storybench.org/the-future-of-machine-learning-in-journalism/)
